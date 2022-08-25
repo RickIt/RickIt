@@ -6,7 +6,7 @@
           
  ##
   
-- 👋 Hi, I’m @RickIt.
+- 👋 Hi, I’m Ricardo Nascimento de Souza ou @RickIt.
 - 👀 I’m interested in coding Python & Scala Projects. 
 - 🌱 I’m currently learning Data Engineering Skills.
 - 💞️ I’m looking to collaborate on Data Enginneer and Datalake projects.
